@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/argento/go/src/GoBlock/Trampolin/backend_go/misc'
+let g:netrw_dirhist_2='/home/argento/go/src/GoBlock/Trampolin/backend_go/misc/ethkeycreator'
+let g:netrw_dirhist_3='/home/argento/go/src/GoBlock/Trampolin/backend_go/misc'
+let g:netrw_dirhist_4='/home/argento/go/src/GoBlock/Trampolin/backend_go/misc/btckeygenie'
+let g:netrw_dirhist_5='/home/argento/.vim'
