@@ -62,6 +62,8 @@ Plug 'maxmellon/vim-jsx-pretty'
 
 Plug 'lambdalisue/vim-fullscreen'
 
+Plug 'tomlion/vim-solidity'
+
 " end plugin system
 call plug#end()
 
