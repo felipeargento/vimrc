@@ -32,6 +32,10 @@ set lazyredraw "redraw only when need to
 set showmatch "highlight matching [({})]
 
 set colorcolumn=80 "highlight column 80
+
+highlight ExtraWhitespace ctermbg=red guibg=red
+match ExtraWhitespace /\s\+$/ "highlight whitespace
+
 """""""
 " Searching
 " """""
