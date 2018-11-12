@@ -11,8 +11,8 @@ set undodir=~/.vim/undodir "persistant undo
 """"""""""
 "A Good Vimrc
 """""""""
-set tabstop=4 "visual spaces per tab
-set softtabstop=4 "number of spaces in a tab when editing(?)
+set tabstop=2 "visual spaces per tab
+set softtabstop=2 "number of spaces in a tab when editing(?)
 
 set expandtab "tabs are spaces
 
@@ -31,6 +31,7 @@ set lazyredraw "redraw only when need to
 
 set showmatch "highlight matching [({})]
 
+set colorcolumn=80 "highlight column 80
 """""""
 " Searching
 " """""
