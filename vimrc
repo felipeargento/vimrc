@@ -16,6 +16,7 @@ set softtabstop=2 "number of spaces in a tab when editing(?)
 
 set expandtab "tabs are spaces
 
+set clipboard=unnamedplus "Use clipboard for copy/paste
 """"""""
 " UI Config
 """"""""
