@@ -14,6 +14,10 @@ set undodir=~/.vim/undodir "persistant undo
 set tabstop=2 "visual spaces per tab
 set softtabstop=2 "number of spaces in a tab when editing(?)
 
+set shiftwidth=2
+set autoindent
+set smartindent
+
 set expandtab "tabs are spaces
 
 set clipboard=unnamedplus "Use clipboard for copy/paste
