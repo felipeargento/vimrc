@@ -24,7 +24,11 @@ set clipboard=unnamedplus "Use clipboard for copy/paste
 """"""""
 " UI Config
 """"""""
-set number "show line numbers
+
+:set number relativenumber "turn hybrid line numbers on
+:set nu rnu
+
+"set number "show line numbers
 set showcmd "show command line in bottom bar
 "set cursorline "highlight current line
 
