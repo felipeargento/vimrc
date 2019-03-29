@@ -73,6 +73,9 @@ Plug 'lambdalisue/vim-fullscreen'
 
 Plug 'tomlion/vim-solidity'
 
+Plug 'glts/vim-magnum' " gA to see number representation
+Plug 'glts/vim-radical' " crd, crx, cro, crb to decimal, hex, octal, binary
+
 " end plugin system
 call plug#end()
 
