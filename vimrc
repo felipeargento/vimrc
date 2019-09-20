@@ -11,10 +11,10 @@ set undodir=~/.vim/undodir "persistant undo
 """"""""""
 "A Good Vimrc
 """""""""
-set tabstop=2 "visual spaces per tab
-set softtabstop=2 "number of spaces in a tab when editing(?)
+set tabstop=4 "visual spaces per tab
+set softtabstop=4 "number of spaces in a tab when editing(?)
 
-set shiftwidth=2
+set shiftwidth=4
 set autoindent
 set smartindent
 
@@ -72,6 +72,8 @@ Plug 'maxmellon/vim-jsx-pretty'
 Plug 'lambdalisue/vim-fullscreen'
 
 Plug 'tomlion/vim-solidity'
+
+Plug 'rust-lang/rust.vim'
 
 Plug 'glts/vim-magnum' " gA to see number representation
 Plug 'glts/vim-radical' " crd, crx, cro, crb to decimal, hex, octal, binary
